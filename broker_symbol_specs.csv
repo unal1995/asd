@@ -1,0 +1,59 @@
+key;value
+symbol;XAUUSD
+description;Gold vs US Dollar
+currency_base;XAU
+currency_profit;USD
+currency_margin;USD
+path;Metals\XAUUSD
+digits;2
+point;0.010000000000
+spread_points_current;45
+spread_float;1
+trade_tick_size;0.010000000000
+trade_tick_value;0.100000000000
+trade_tick_value_profit;0.100000000000
+trade_tick_value_loss;0.100000000000
+trade_contract_size;100.00000000
+volume_min;0.01000000
+volume_max;100.00000000
+volume_step;0.01000000
+volume_limit;0.00000000
+trade_stops_level_points;0
+trade_freeze_level_points;0
+trade_mode;4
+trade_calc_mode;4
+filling_mode;3
+order_mode;127
+expiration_mode;15
+swap_mode;1
+swap_long;-12.600000000000
+swap_short;-4.600000000000
+swap_rollover3days;3
+margin_initial;0.000000000000
+margin_maintenance;0.000000000000
+margin_hedged;100.000000000000
+symbol_start_time;1970.01.01 00:00:00
+symbol_expiration_time;1970.01.01 00:00:00
+account_server;MetaQuotes-Demo
+account_company;MetaQuotes Ltd.
+account_currency;USD
+account_leverage;500
+account_margin_mode;2
+account_trade_mode;0
+account_hedge_allowed;1
+terminal_name;MetaTrader 5 IC Markets Global
+terminal_build;6238
+export_server_time;2026.10.06 19:01:35
+export_gmt_time;2026.10.06 16:01:35
+current_server_minus_gmt_seconds;10800
+current_server_minus_gmt_hours;3.0000
+current_bid;4163.100000000000
+current_ask;4163.550000000000
+margin_buy_0_01_lot_current;8.33000000
+margin_sell_0_01_lot_current;8.33000000
+margin_buy_1_00_lot_current;832.71000000
+margin_sell_1_00_lot_current;832.62000000
+observed_history_deal_count;0
+observed_history_deal_commission_total;0.00000000
+observed_history_deal_volume_total;0.00000000
+observed_history_commission_note;Kendi hesap gecmisinden gozlenen toplamdir; resmi broker komisyon tarifesi degildir.

@@ -1,0 +1,14 @@
+key;value
+symbol;XAUUSD
+requested_from;2025.09.01 00:00:00
+requested_to_exclusive;2026.02.01 00:00:00
+raw_ticks_enabled;false
+m1_bidask_enabled;true
+total_ticks_read;37846729
+total_valid_bidask_ticks;37846729
+m1_rows_written;147447
+first_tick_time;2025.09.01 01:05:10
+last_tick_time;2026.01.30 23:59:35
+max_gap_between_consecutive_ticks_seconds;184515
+current_server_minus_gmt_seconds;10800
+timezone_note;MT5 datetime zaman dilimi etiketi tasimaz; current server-GMT farki ayrica kaydedildi.
